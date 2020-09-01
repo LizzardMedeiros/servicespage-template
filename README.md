@@ -1,4 +1,4 @@
-# servicespage-template - ricocorrespondentes
+# servicespage-template - Rico Correspondentes
 
 > A search engine service template
 
